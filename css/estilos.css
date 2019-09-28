@@ -1,0 +1,35 @@
+body{
+  padding-top: 5rem;
+  background:url(images/fondo.jpg) center top;
+  background-size: 1400px 1000px;
+}
+
+.starter.template{
+  padding: 3rem 1.5 rem;
+  text-align: center;
+}
+h1{
+  color: white;
+  text-align:center;
+}
+body {
+color: #e4e9ed;
+text-align:center;
+}
+nav.navbar{
+
+  background-color: black!important; <!-- forzar color de navbar -->
+}
+
+.nav-link{
+  color: white!important; <!-- forzar color de texto navbar -->
+}
+.nav-link:hover{
+  font-weight: bold!important;
+}
+
+h1{ <!-- titulo principal -->
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: black;
+}
